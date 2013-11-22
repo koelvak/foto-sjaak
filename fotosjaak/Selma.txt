@@ -1,0 +1,17 @@
+create table werknemer (wnr varchar (10) not null,
+						achternaam varchar(50) not null,
+						voorletters varchar (10) not null,
+						voorvoegsel varchar(10) null,
+						adres varchar (50) not null,
+						postcode varchar (7) not null,
+						woonplaats varchar (50) not null,
+						tel varchar(11) not null,
+						datum_in_dienst varchar(8) not null,
+						sal varchar (12),
+						chef varchar (10) null) ENGINE=InnoDB;
+alter table werknemer add sofinummer varchar(10);
+
+1:Vraag een getal en druk zijn kwadraat af.
+2:Druk alle getallen 1t/m100 de kwadraten af.
+getal = 4 kwadraat = 16
+3:Doe hetzelfde als 2 alleen stop als kwadraat groter is dan 200

@@ -1,0 +1,93 @@
+body
+{
+	font-family:Arial;
+	background-color:blue;
+	color:green;
+	font-size:1,3em;-
+	border:10px solid orange;
+	margin:15x 10px;3060
+	padding:3em;
+}
+
+html
+{
+border:0px solid orange;
+
+}
+
+div#container
+{
+background-color:orange;
+width:600px;
+margin:20px auto;
+border-radius: 25px;
+
+}
+
+div#banner
+{
+background-color:orange;
+background-image:url(../images/zoo-project-logotype-600x200-300dpi.png);
+background-repeat: no-repeat;
+height: 170px;
+border-radius: 25px;
+
+
+}
+div#content
+
+{
+font-size:1em;
+text-align: center;
+min-height:300px;
+margin:50px 0px;
+padding:opx 20px;
+position:relative;
+}
+
+div#footer
+
+{
+
+background-color:Orange;
+text-align:center;
+}
+
+div#link
+
+{
+position:absolute;
+top:0px;
+left:-200px;
+background-color:Orange;
+width:170;
+height:200px;
+border-radius:25px;
+padding:0,5;
+}
+
+a
+{
+	color white;
+	text-decoration:none;
+	font-size:0,8em;
+}
+
+div#link li
+{
+list-style-type:right;
+}
+
+table.simple
+{
+	background-color:rgba(150, 150, 150, 1);
+	border-collapse:collapse;
+	border
+}
+
+table.simple td, th
+{
+	padding:1em;
+	border:1px solid white;
+
+}

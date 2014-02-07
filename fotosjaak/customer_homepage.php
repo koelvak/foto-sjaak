@@ -1,5 +1,5 @@
 <?php
-        $userrole = array('customer', 'root', 'admin');
+        $userrole = array('customer', 'root', 'admin', 'coworker');
         include('security.php');
 ?>
 

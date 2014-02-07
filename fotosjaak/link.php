@@ -22,9 +22,8 @@
 												  <li> <a href='./index.php?content=change_setting'>verander instellingen</a>
 												  </li>";
                                 break;
-									case 'coworker':
-									echo " <li> <a href='index.php?content=coworker'> pandabeer</a>
-																					  </li>";
+								case 'coworker':
+								echo " <li> <a href='index.php?content=coworker'> pandabeer</a></li>";
 								break;
                                 case 'root':
                                         //Plaats hier de speciale links voor de root.

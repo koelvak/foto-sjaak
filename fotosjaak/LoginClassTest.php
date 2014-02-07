@@ -14,7 +14,6 @@
 	
 	{
 		echo $values->get
-		
 	}
 	/*{
 			echo $value->getLogin_id()." | ".
